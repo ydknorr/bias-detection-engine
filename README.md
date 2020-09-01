@@ -1,64 +1,71 @@
-# bias-detection-engine
+# Bias Diagnostics Engine Starter Kit Contents
+1.	Team Member Resources 
+2.	Overview
+3.	Video – How Technology can help 
+4.	The idea
+5.	How it works
+6.	Diagrams
+7.	Documents
+8.	Datasets
+9.	Technology
+10.	Getting started
+11.	Resources
+12.	License
 
-## Overview
-This project is an effort to leverage technology to prevent, detect, and remediate bias and misrepresentation in the workplace, products, legal system and society. For corporations to succeed, it is critical to have Black representation at every level.
 
-Studies have shown that in order to get in company doors that Minority job applicants are “whitening” their resumes by deleting references to their race with the hope of boosting their shot at jobs, and recent research shows the strategy is paying off. According to Forbes, in fact, companies are more than twice as likely to call minority applicants for interviews if they submit whitened resumes than candidates who reveal their race — and this discriminatory practice is just as strong for businesses that claim to value diversity as those that don’t. According to the Harvard Business Review, it shouldn’t be surprising that most diversity programs aren’t increasing diversity. Despite a few new bells and whistles, courtesy of big data, companies are basically doubling down on the same approaches they’ve used since the 1960s—which often make things worse, not better. Firms have long relied on diversity training to reduce bias on the job, hiring tests and performance ratings to limit it in recruitment and promotions, and grievance systems to give employees a way to challenge managers. Those tools are designed to preempt lawsuits by policing managers’ thoughts and actions.
+## Update your starter kits in GitHub with the following information (Please keep your repositories private and those who need access will request it):
+1.	Team member validation (please note those who are no longer able to remain active throughout the fortification phase) 
+	= Confirmed as working member for Externalization Phase
+		Denise Knorr	Product Manager
+		Boz Handy Bosman	AoT Master Inventor (AIF360)
+		Sam Hoffman	AIF360 Developer
+		Hema Veeradhi	Red Hat Software Engineer
+		Kate Tereshchenko	Cloud Data Scientist
+		Misra Turp	GBS Data Scientist
+		Ann Marie Fred	CFC Sentencing Reform Team
+		Demi Ajayi	Prod Designer – AI Natural Language
+		Otis Smart	AI Data Scientist - Machine Learning
+			Developer / Coder
+			Developer / Architect 
 
-## Problem Statement 
-Black employees do not advance at the rate and to the levels of influence in the workplace they should due to a lack of transparency around opportunities and implicit biases in recruiting, evaluation, mentorship and promotion processes.
+2.	OVERVIEW: Short clear description: what is the problem and how can technology help?
+a.	Solution Name and short description
+1)	IBM Racial Disparity & Bias Diagnostics Engine  
+a)	AI Fairness 360 sourced functionality refined to specifically isolate racial disparity in technology enabled outcomes and sufficiently diagnose bias related causes for the disparity so that remediation can be recommended, and outcomes subsequently monitored and measured for effectiveness  
 
-**Hill**: A recruiter can receive data driven recommendations of non-traditional applicants to reconsider and be confident in advocating for them to hiring managers. 
+b.	What is the Problem:  
+1)	A new class of “anti-bias / anti-Systemic Racism” solutions (aka Call for Code EmbRace solutions) strives to have outcomes that can be mathematically assessed and validated as “Bias Free” 
+a)	This new class of solutions that prioritize the minimization of outcomes infected by implicit racial bias will need leading edge technology and newly developed interface protocols that can effectively serve as a universally accepted fair and “Credible Arbiter” of bias and other variables that might negatively contribute to racially-driven disparity in outcomes.
+b)	Without validated and benchmarked models for consistent attribution and remediation of bias, the full range of new and innovative anti-bias solutions will have diminished ability to deliver outcomes that are universally seen as mathematically and repeatably accurate in diagnosing and remediating bias. 
+•	A random / one-off approach to detecting and remediating bias will not be sufficient to drive outcomes accepted / acknowledged as bias-free across a large ecosystem of a new class of anti-bias solutions 
+c)	Furthering the problem is that effects of bias can be fed into a single solution’s outcomes via multiple inputs / steps in that single solution’s processes, while at the same time some steps or processes associated with the solution’s outcome may be mathematically bias-free or neutral.  
+•	This means that the bias diagnostics capabilities need to be sufficient to assess the cumulative effect of multiple sources of bias throughout the entire “process pipeline” within a single solution, so that if any single “bias-infected” input source or data set within the solution’s process pipeline goes undiagnosed, the outcome may still reflect elements of racial bias. In other words, neutral processes are not sufficient in-and-of themselves to prevent implicit racial bias from infecting a solution’s outcomes. 
+c.	How can Technology Help 
+1)	By leveraging existing (enhanced) IBM technologies like AI Fairness 360, IBM can provide benchmarked hardened models and interface protocols for disparity and bias diagnostics functionality (aka a full functioning Bias Diagnostics Engine) that can be universally applied via Open source cloud enablement by a varied range of internal and external 3rd party solutions targeting bias-free outcomes, 
+2)	IBM technology can serve as a scientifically sourced “credible” arbiter of disparity and racial bias by leveraging IBM’s unique and deep brain-trust of research and expertise needed to adequately assign algorithms sufficient to digitize and quantify bias infused context and concepts. 
+3)	Privacy Preserving will be required due to the nature of most data sets, so IBM cloud Security will be a critical technology enabler for this new class of anti-bias / anti-racism solutions and required for the Bias Engine to function optimally since many of the most relevant data sets needed are those that will require maximum levels of security and privacy similar to the levels of security IBM provides to Financial and Public Sector solutions and platforms. 
 
-## Proposed Solution
-Our solution has the following key personas:
+3.	2 min VIDEO – The idea / elevator pitch by Boz 
 
-![Personas](https://user-images.githubusercontent.com/7343099/90186037-8fbae300-dd85-11ea-8f00-6b2c523c3c93.png)
+4.	The idea: the elevator pitch of your solution. Explain how it works- What would be a successful uses of the technology , and provide guidance to the developer (standards/protocols; documents)
 
-The main persona in our solution is the recruiter who is attempting to identify candidates. 
+A.	Denise elevator pitch diagram of high level process flow 
 
-## User Insights
+5.	HOW IT WORKS – Boz 
+•	Skills and IBM Cloud or open source services - what are the key technology areas  an external developer needs  to know in order to build upon this idea? Please be sure to call out the open source technologies it would leverage. 
+•	Privacy preserving  is part of Bias engine process
+6.	 Reference materials - data sets, research, guidance, standards, and documents - Boz
 
-![User-Insights](https://user-images.githubusercontent.com/7343099/90186269-e7594e80-dd85-11ea-841c-6818b039b8ca.png)
 
-Description of key architectural elements:
+7.	Architecture diagrams - look at the solution end to end (for example): please note, it doesn't have to be as polished as this example. We have designers who can help
+A.	Funnel diagrams – both versions funnel and boxes 
+8.	Working code – (Sam) …….details on how to get started (i.e. register for a cloud account and choose a common service) and how to assemble the building blocks of your solution using IBM and open source technology. 
 
-- Mechanism to anonymize / pseudonymize
-- Bias measurement assets
-- Data sharing
-- Front-end website
 
-## Hiring Funnel 
+9.	Suggestions on how to take the idea in other directions - this points developer/organizations in ways to connect the dots and create solutions to address other use cases; e.g. swapping out data sets – 
+A.	Blockchain to establish consensus about data sharing. 
+B.	Accountability Scoring
+C.	Clean Media Ecosystem Container – Bias detection + Misinformation flagging + Misinformation filters + Accountability Scores
 
-Systemic racism is a structural input into the hiring funnel, leading to disparities in the outputs. The hiring process is a seven-step process that includes: sourcing, application, screening, shortlist, hiring manager/interview, offer/negotiation, and candidate decision. In this solution we are not directly addressing the sourcing step, but rather focusing on the pipeline from application to being hired or dispositioned. Our hope is that by showing bias at each step along the pipeline, we can help companies understand why they may not be achieving the diversity they desire in their employee base.  
-
-![Hiring Funnel](https://user-images.githubusercontent.com/7343099/90186396-196ab080-dd86-11ea-99ba-9e514061bba9.png)
-
-## Overall Architecture
-
-Our solution aims to have a web UI that takes in HR data (in our case, simulated data), and allows for query, selection, presentation, and visualization of that data. The critical components of our solution that we hope to provide insights on include: a visualization to represent the seven-step hiring process, a statistical analysis to indicate bias, and a simulation to model what fair results would look like. 
-
-![Architecture](https://user-images.githubusercontent.com/7343099/90186448-2c7d8080-dd86-11ea-9fe2-e5e12a181888.png)
-
-## Extending the Bias Engine
-
-Apart from HR hiring data, we can also apply the bias detection to the Judicial system. People in the Black community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. 
-
-## Analysis
-
-We have created some initial data science exploratory notebooks [here.](https://github.com/embrace-call-for-code/bias-detection-engine/tree/master/notebooks)
-The notebooks analyze the sample HR/Judicial data sets to depict the bias in various stages of either HR recruiting process or legal procedure for the Black community.
-
-## Sample Data
-The data sets used in our initial analysis/notebooks can be found [here.](https://github.com/embrace-call-for-code/bias-detection-engine/tree/master/data)
-
-The input HR data has been generated by our team due to privacy concerns surrounding real data. Each row in the dataset gives the applicant’s race, gender, application date, and dates for each subsequent step in the hiring process they have achieved (shortlist, interview, offer, hire). If an applicant is not hired, a date will be given for their disposition from the hiring process.  
-
-Our model uses data from three sources of bias: 
-* Adding additional bias landing at ~3% Black hires 
-* No additional bias in the funnel, landing at ~7% Black hires 
-* Remediation in the funnel, landing at ~13% Black hires.
-
-We have also generated judicial data to mock real-world scenarios. Each row in the dataset gives the crime elements identified in the crime, the defendant's race, sentencing length and the corresponding step in the legal process such as **Investigation, Plea Bargaining, Pre-Trial Motions.**
 
 
