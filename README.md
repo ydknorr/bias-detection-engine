@@ -29,18 +29,14 @@ This solution starter was created by technologists from IBM.
 * Demi Ajayi - Prod Designer – AI Natural Language 
 * Otis Smart - AI Data Scientist - Machine Learning 
 
-## 2. Overview
+## 2. Overview - PROBLEM STATEMENT 
 
-### Embrace Theme
-#### IBM Racial Disparity & Bias Diagnostics Engine
-
-* Powered by IBM’s [AI Fairness 360](https://github.com/Trusted-AI/AIF360) sourced functionality
-* Refined to specifically isolate racial disparity in technology enabled outcomes
+#### IBM Racial Disparity & Bias Diagnostics Engine OVERVIEW 
+* Powered by IBM’s [AI Fairness 360] sourced functionality (https://github.com/Trusted-AI/AIF360) refined to specifically isolate racial disparity in technology enabled outcomes
 * Diagnose bias related causes for the disparity to recommend remediation
 * Monitor outcomes for effectiveness at minimizing bias and racially motivated disparity 
 
 ### Problem statement
-
 A new class of “anti-bias / anti-Systemic Racism” solutions (aka Call for Code EmbRace solutions) strives to have outcomes that can be mathematically assessed and validated as “Bias Free” 
 
 1. This new class of solutions that prioritize the minimization of outcomes infected by implicit racial bias will need leading edge technology and newly developed interface protocols that can effectively serve as a universally accepted fair and “Credible Arbiter” of bias and other variables that might negatively contribute to racially-driven disparity in outcomes.
@@ -71,8 +67,6 @@ A new class of “anti-bias / anti-Systemic Racism” solutions (aka Call for Co
 Our solution has the following key personas:
 
 ![Personas](https://user-images.githubusercontent.com/7343099/90186037-8fbae300-dd85-11ea-8f00-6b2c523c3c93.png)
-
-The main persona in our solution is the recruiter who is attempting to identify candidates. 
 
 ### User Insights
 
